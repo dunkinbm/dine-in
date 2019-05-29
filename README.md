@@ -1,0 +1,2 @@
+# dine-in
+Restaurant delivery
